@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kironroy
-- 👀 I’m interested in becoming a Front-End Web Developer
+- 👀 I’m a Front-End Web Developer
 .
 
 <!---
