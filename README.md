@@ -2,7 +2,7 @@
 - 👀 I’m a Front-End Web Developer
 .
 
-<img src="https://cdn.glitch.com/831583d2-f625-423f-a73f-e837a3edda8b%2F5302817430_58dd2f9148_o.jpg?v=16062868397351536" alt="Girl in a jacket" width="1076" height="598">
+[![logo](https://kironroy.github.io/headshot_80px.svg)](https://kironroy.github.io/)
 
 
 <!---
